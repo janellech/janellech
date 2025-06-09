@@ -1,5 +1,5 @@
-## Hello there 👋
+## Nice to meet you! 👋
 
-- 🌱 I’m currently learning R.
+- 🗺 Currently learning: Spatial analysis techniques in R
 - 📫 Reach me: janellec@unc.edu
-- 😄 Pronouns: she/her
+- 🙂 Pronouns: she/her
